@@ -1,5 +1,5 @@
 
-Containers boilerplate code for debian-based docker images.
+Containers boilerplate code for docker images.
 
 Images should not point to the master branch, but rather a commit or a branch.
 
